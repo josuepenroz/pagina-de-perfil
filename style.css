@@ -1,0 +1,21 @@
+*{
+    border: 0px;
+    padding: 0px;
+}
+nav{
+     display: flex;
+  justify-content: end;
+  
+  align-items: center;
+  background-color: #f0f0f0; 
+  padding: 10px
+  
+}
+
+
+.nav a {
+    color: rgb(0, 0, 0);
+}
+
+
+
